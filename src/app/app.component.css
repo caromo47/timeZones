@@ -1,0 +1,25 @@
+div.header {
+    height: 100px;
+    text-align: center;
+	font-family: arial;
+}
+section {
+    height: 100px;
+    text-align: center;
+	font-family: arial;
+	margin-top: 15%;
+}
+button {
+    width: 100px;
+    height: 100px;
+	letter-spacing: 7px;
+    font-size: 1.5em;
+    font-weight: bold;
+	border-radius: 100%;
+	box-shadow: 10px 10px 10px;
+	margin: 0 5%;
+
+}
+.selected {
+    background-color: tan;
+}
